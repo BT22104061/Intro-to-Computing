@@ -1,0 +1,45 @@
+36
+.egaugnal evitisnes esac a si nohtyP
+a case sensitive
+Python is object oriented language.
+10
+Pythonisacasesensitivelanguage.
+Enter Name
+rajdeep
+Enter SID
+22104061
+Enter Department
+electrical
+Enter CGPA
+9.9
+Hey, Rajdeep Here!
+
+ My SID is 22104061
+
+ I am from Electrical department and my CGPA is 9.9
+Value of a&b= 8
+Value of a|b= 58
+Value of a^b= 50
+Left shift both a and b with 2 bits 224 40
+Right shift a with 2 bits and b with 4 bits 3 3
+Enter first number
+4
+Enter second number
+5
+Enter third number
+6
+Largest number is 6
+input
+my name is rajdeep
+true
+Length of first side
+3
+Length of second side
+4
+Length of third side
+5
+true
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
