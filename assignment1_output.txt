@@ -1,0 +1,43 @@
+Value of a
+3
+Value of b
+4
+Value of c
+5
+Average of a,b,c is 4.0
+Enter gross income
+20000
+Enter number of dependents
+3
+Tax= 200.0
+enter seconds
+500
+Minutes- 8 seconds- 20
+75
+0.0 1.0
+0.2588 0.9659
+0.5 0.866
+0.7071 0.7071
+0.866 0.5
+0.9659 0.2588
+1.0 0.0
+0.9659 -0.2588
+0.866 -0.5
+0.7071 -0.7071
+0.5 -0.866
+0.2588 -0.9659
+0.0 -1.0
+-0.2588 -0.9659
+-0.5 -0.866
+-0.7071 -0.7071
+-0.866 -0.5
+-0.9659 -0.2588
+-1.0 -0.0
+-0.9659 0.2588
+-0.866 0.5
+-0.7071 0.7071
+-0.5 0.866
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
