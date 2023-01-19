@@ -2,8 +2,8 @@
 #Q1
 sentance=input("write a sentence")
 space=sentance.count(" ")
-if count>0:
-    print(space)
+if space>0:
+    print(space+1)
 else:
     print(len(sentance))
 
