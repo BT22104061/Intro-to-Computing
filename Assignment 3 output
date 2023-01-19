@@ -1,0 +1,39 @@
+write a sentence Hello, how are you
+4
+enter year-2022
+Month-12
+Day-31
+the next day is 1/1/2023
+Enter the numbers separated by space:1 2 3 4 5
+List containing (n,n^2) is shown below:
+[(1, 1), (2, 4), (3, 9), (4, 16), (5, 25)]
+Enter grade points:8
+Your grade is 'B+' and Very Good performance.
+ ABCDEFGHIJK
+  ABCDEFGHI
+   ABCDEFG
+    ABCDE
+     ABC
+      A
+Enter student name:Rajdeep singh
+Enter student SID:22104061
+Enter Y to continue or N to end:y
+Enter student name:Jappanpreet
+Enter student SID:22104047
+Enter Y to continue or N to end:y
+Enter student name:Rajvir singh
+Enter student SID:22104063
+Enter Y to continue or N to end:n
+Q.6(a)
+A new set of elements that are 'exactly in two of the sets Set1, Set2 and Set3' is:
+{1, 2, 4, 5}
+
+Q.8(d)
+
+A new set of all Integers in the 'range 1 to 10' that are 'not in Set1' is:
+{6, 7, 8, 9, 10}
+
+Q.8(e)
+
+A new set of all Integers in the range 1 to 10 that are not in Set1,Set2 and Set3.
+{10, 7}
