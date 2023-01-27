@@ -1,0 +1,29 @@
+Enter a number 6
+Number 6 is a perfect number
+Enter Sentence: hi my name is rajdeep
+No it is not a palindrome
+enter number of rows 5
+     1 
+    1 1 
+   1 2 1 
+  1 3 3 1 
+ 1 4 6 4 1 
+Enter Sentence: hi ih
+true
+Enter hyphen-separated sequence of words red-orange-green
+green-orange-red
+Student name:  Rajdeep
+Student branch:  Electrical
+Student ID:  22104061
+True
+False
+True
+False
+Check whether the said classes are subclasses of the built-in object class or not.
+True
+True
+
+[[-10, 2, 8]]
+[[-10, 2, 8], [-7, -3, 10]]
+Enter the sequence of parantheses : {]
+{] - is unbalanced
